@@ -168,3 +168,5 @@ function finishHtml() {
   });
   console.log("end");
 }
+
+initApp();
